@@ -54,4 +54,12 @@
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
+## 🧑‍💻 Development Stack
 
+- `Frontend` - Next.js, React.js & Ant Design
+
+## ⛳️ Live Preview
+
+- Frontend (Client Side) - [`🚀 Click to Visit`][frontend-link]
+
+[frontend-link]: https://booking.com
